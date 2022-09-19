@@ -24,7 +24,7 @@ class DiscordWarns {
      * @param {string} [date] - The date the warn was issued.
      * @returns {Promise<DiscordWarns>}
      * @example
-     * const DiscordWarns = require('discord-warns');
+     * const DiscordWarns = require('discord-warning');
      * 
      * DiscordWarns.setDB('mongodb://localhost:27017/database');
      * 
@@ -67,7 +67,7 @@ class DiscordWarns {
      * @param {string} [date] - The date the warn was issued.
      * @returns {Promise<DiscordWarns>}
      * @example
-     * const DiscordWarns = require('discord-warns');
+     * const DiscordWarns = require('discord-warning');
      * 
      * DiscordWarns.setDB('mongodb://localhost:27017/database');
      * 

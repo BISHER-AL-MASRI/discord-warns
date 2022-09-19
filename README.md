@@ -9,7 +9,7 @@ npm install discord-warns
 ```javascript
 const Discord = require('discord.js');
 const client = new Discord.Client();
-const warns = require('discord-warns');
+const warns = require('discord-warning');
 
 client.on('ready', () => {
   console.log(`Logged in as ${client.user.tag}!`);
