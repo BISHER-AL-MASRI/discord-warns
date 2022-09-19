@@ -3,7 +3,7 @@ a spam detector for discord.js bots
 ---
 # Installation
 ```
-npm install discord-warns
+npm install discord-warning
 ```
 # Usage
 ```javascript
