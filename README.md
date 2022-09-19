@@ -1,5 +1,5 @@
 # discord-warning
-a spam detector for discord.js bots
+a warning system for discord.js bots
 ---
 # Installation
 ```
